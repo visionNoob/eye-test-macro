@@ -16,5 +16,6 @@ http://game.ioxapp.com/eye-test/game.html
 
 ## Result
 
-![]({{site.baseurl}}//result1.jpg)
-
+![](https://im4.ezgif.com/tmp/ezgif-4-2d45beabd3.gif)
+![](./result1.jpg)
+![](./KakaoTalk_20171128_232558922.gif)
